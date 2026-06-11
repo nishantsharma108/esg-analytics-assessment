@@ -1,0 +1,10 @@
+{
+  "issue_category": "WATER",
+  "urgency": "HIGH",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "Facilities Management",
+  "escalation_reason": "Active water leak running all morning indicates ongoing resource waste and slip hazard risk",
+  "data_sensitivity_risk": "LOW",
+  "brief_summary": "Unresolved water leak in Building C has been running all morning"
+}

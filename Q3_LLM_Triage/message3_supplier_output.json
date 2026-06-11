@@ -1,0 +1,10 @@
+{
+  "issue_category": "PROCUREMENT",
+  "urgency": "HIGH",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "ESG Compliance",
+  "escalation_reason": "Potential supplier non-compliance with sustainability policy requires formal review",
+  "data_sensitivity_risk": "HIGH",
+  "brief_summary": "Employee reports a supplier may be non-compliant with GreenCorp sustainability policy"
+}

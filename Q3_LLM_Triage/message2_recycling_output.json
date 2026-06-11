@@ -1,0 +1,10 @@
+{
+  "issue_category": "WASTE",
+  "urgency": "MEDIUM",
+  "sentiment": "NEGATIVE",
+  "followup_required": "Y",
+  "recommended_team": "Facilities Management",
+  "escalation_reason": null,
+  "data_sensitivity_risk": "LOW",
+  "brief_summary": "Recycling bins repeatedly contaminated with no oversight or monitoring in place"
+}
